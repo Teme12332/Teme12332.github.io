@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>My Website</title>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to My Website</h1>
+    <nav>
+      <a>About</a>
+      <a>Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>About</h2>
+      <p>This is a starter template for your web page.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p> My Website</p>
+  </footer>
+
+</body>
+</html>
 # Teme12332-.github.io
 <html>
 <head>
